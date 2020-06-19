@@ -1,2 +1,2 @@
 # Git_test
-Trying out Git
+Trying out Git with command line interface.
